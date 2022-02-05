@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpockCoding
-- 👀 I’m interested in IT
+- 👀 I’m interested in IT universe
 - 🌱 I’m currently learning Python, Go, DevOps
 
 
